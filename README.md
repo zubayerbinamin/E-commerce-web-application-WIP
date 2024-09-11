@@ -21,3 +21,5 @@ Then type:
 Then run the server:
 
 	Python manage.py runserver
+
+ After registering, user can create postings, and see postings made by other users.
