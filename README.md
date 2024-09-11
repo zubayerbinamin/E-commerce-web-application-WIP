@@ -1,5 +1,7 @@
 # E-commerce-website (WIP)
 
+Developed the backend of an E-commerce website using Python, Django, and created APIs to make databases to store listings made by users as part of my projects in the Edx Harvard CS50's Web Programming with Python and JavaScript.
+
 # Quick start:
 
 Open VS code and make sure to install Django with:
