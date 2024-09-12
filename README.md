@@ -1,6 +1,6 @@
-# E-commerce-website (WIP)
+# E-commerce-web-application (WIP)
 
-Developed the backend of an E-commerce website using Python, Django, and created APIs to make databases to store listings made by users as part of my projects in the Edx Harvard CS50's Web Programming with Python and JavaScript.
+Developed the backend of an E-commerce web application using Python, Django, and created APIs to make databases to store listings made by users as part of my projects in the Edx Harvard CS50's Web Programming with Python and JavaScript.
 
 # Quick start:
 
